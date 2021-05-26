@@ -1,6 +1,6 @@
-name: component-a
-title: Component A
-version: dev
+name: component-c
+title: Component C
+version: test
 nav:
   - modules/ROOT/nav.adoc
   - modules/module-one/nav.adoc
