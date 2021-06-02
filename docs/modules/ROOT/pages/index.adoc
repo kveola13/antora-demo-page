@@ -1,1 +1,4 @@
 = Welcome to component A
+
+link:{attachmentsdir}/colorpicker.gif[Colorize]
+
