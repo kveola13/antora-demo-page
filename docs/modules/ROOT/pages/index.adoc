@@ -1,4 +1,5 @@
 = Welcome to component A
 
+:stylesheet: test.css
 link:{attachmentsdir}/colorpicker.gif[Colorize]
 
